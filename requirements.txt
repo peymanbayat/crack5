@@ -1,5 +1,5 @@
 yolov5
-opencv_python_headless
+opencv_python_headless==4.5.5.64
 streamlit
 numpy
 Pillow
