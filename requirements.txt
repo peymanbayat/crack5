@@ -1,16 +1,7 @@
-yolov5
-opencv_python_headless==4.5.5.64
+opencv_python_headless
 streamlit
 numpy
 Pillow
-torch
-torchvision
-PyYAML
-tqdm
-matplotlib
-requests
-scipy
-tensorboard
 pandas
 seaborn
 streamlit-webrtc
